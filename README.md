@@ -1,1 +1,1 @@
-# Harsh-Vardhan-SINGH-202401100400093
+Loan default prediction is a classification problem in machine learning where the goal is to determine whether a borrower is likely to default (fail to repay) on a loan. This is done by analyzing various features such as the borrower's financial history, credit scores, income, employment status, loan amount, and past repayment behavior.
